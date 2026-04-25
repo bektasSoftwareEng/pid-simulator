@@ -1,0 +1,3 @@
+C:\mingw64\bin\cmake.exe -E rm -f CMakeFiles\pid_simulator.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\pid_simulator.dir/objects.a @CMakeFiles\pid_simulator.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\pid_simulator.dir/objects.a -Wl,--no-whole-archive -o pid_simulator.exe -Wl,--out-implib,libpid_simulator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pid_simulator.dir\linkLibs.rsp

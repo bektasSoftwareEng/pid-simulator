@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/tusas projects/pid-simulator/build/CMakeFiles/pid_simulator.dir
+C:/Users/User/Desktop/tusas projects/pid-simulator/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/tusas projects/pid-simulator/build/CMakeFiles/rebuild_cache.dir
