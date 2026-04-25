@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/User/Desktop/tusas projects/pid-simulator/build",
-  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\pid_simulator.dir\\main.cpp.obj -c \"C:\\Users\\User\\Desktop\\tusas projects\\pid-simulator\\main.cpp\"",
-  "file": "C:/Users/User/Desktop/tusas projects/pid-simulator/main.cpp",
-  "output": "CMakeFiles/pid_simulator.dir/main.cpp.obj"
-}
-]
